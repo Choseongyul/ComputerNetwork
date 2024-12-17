@@ -1,3 +1,3 @@
 # ComputerNetwork
 
-### Computer Network 정리
+### Computer Network 실습
